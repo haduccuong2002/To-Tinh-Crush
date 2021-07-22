@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'anh em à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao Cường lại cứ đẹp trai
-    
-    `,
+    hihi
+    hihi`,
     btnIntro: 'đúng thế thật',
     title: 'Phải chăng đã thấy Cường đẹp trai từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng bạn đã say ngay từ lúc thấy nụ cười ấy ',
